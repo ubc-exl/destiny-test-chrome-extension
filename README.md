@@ -1,6 +1,7 @@
 # Destiny Chrome ExtensionF
 A Chrome Extension to change the appearance of the DestinyONE Staff View TEST 
-environment. Makes it abundantly obvious that you're in TEST vs PROD. 
+environment. Makes it abundantly obvious that you're in TEST vs PROD. [Turns the 
+banner and footer yellow, and adds a light yellow background to the entire page.]
 
 Adapted from the UC Berkeley extension at https://github.com/UC-Berkeley-Extension/destiny-chrome-extension
 
