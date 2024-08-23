@@ -19,4 +19,4 @@ Will need a rewrite to be compatible with Manifest V3, by early 2025.
 7. You may now turn off Developer Mode and close the Extensions page. You may also delete the folder and its code from your machine if you like.
 
 ## Sreenshot
-[screenshot of extension in D1 staff view test](/ubc-exl/destiny-test-chrome-extension/blob/main/images/d1-test-screenshot.png)
+![screenshot of extension in D1 staff view test](images/d1-test-screenshot.png)
