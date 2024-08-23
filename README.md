@@ -1,4 +1,4 @@
-# Destiny Chrome ExtensionF
+# Destiny Chrome Extension
 A Chrome Extension to change the appearance of the DestinyONE Staff View TEST 
 environment. Makes it abundantly obvious that you're in TEST vs PROD. [Turns the 
 banner and footer yellow, and adds a light yellow background to the entire page.]
@@ -17,3 +17,6 @@ Will need a rewrite to be compatible with Manifest V3, by early 2025.
 5. Now use the *Load Unpacked* button and navigate to the folder containing this extension's code and click *Select*.
 6. You're done. Navigate to the D1 test instance and you should see a yellow banner and background. 
 7. You may now turn off Developer Mode and close the Extensions page. You may also delete the folder and its code from your machine if you like.
+
+## Sreenshot
+[screenshot of extension in D1 staff view test](/ubc-exl/destiny-test-chrome-extension/blob/main/images/d1-test-screenshot.png)
