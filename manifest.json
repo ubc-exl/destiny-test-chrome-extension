@@ -1,22 +1,9 @@
 {
-  "name": "DestinyONE TEST Chrome Extension UBC",
-  "version": "1.0",
-  "description": "A Destiny Chrome Extension To Change The Styling Of Destiny Staff View On Test",
+  "name": "DestinyONE and ExL Website TEST Chrome Extension UBC - Manifest x    V3",
+  "version": "1.1",
+  "description": "A Destiny Chrome Extension To Change The Styling Of Destiny Staff View and Drupal Website On Test",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
-  },
-  "page_action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "images/hope16.png",
-      "32": "images/hope32.png",
-      "48": "images/hope48.png",
-      "128": "images/hope128.png"
-    }
-  },
   "icons": {
     "16": "images/hope16.png",
     "32": "images/hope32.png",
@@ -25,10 +12,14 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://ubctestsv.destinyone.moderncampus.net/*"],
+      "matches": ["https://ubctestsv.destinyone.moderncampus.net/*", 
+                  "https://staging.extendedlearning.ubc.ca/*", 
+                  "https://dev-54ta5gq-2cjgsmsgsejxq.ca-1.platformsh.site/*",
+                  "https://ubctestpv.destinyone.moderncampus.net/"
+                 ],
       "css": ["contentScripts/main.css"],
       "js": ["contentScripts/app.js"]
     }
   ],
-  "manifest_version": 2
+  "manifest_version": 3
 }

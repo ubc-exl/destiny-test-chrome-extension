@@ -7,7 +7,7 @@ div#navigation01{
 div#navigation02{
   padding: 10px 0px;
   width: 100vw;
-  background-color: lightyellow;
+  background-color: rgb(255, 245, 224);
 }
 
 #secondMenu li{
@@ -34,4 +34,14 @@ div#content01 {
 
 div#footer01 {
   background-color: var(--alert-color);
+}
+
+/* this are for the public website staging (staging.extendedlearning and dev-54... */
+header#ubc7-header {
+  background-color: yellow !important;
+}
+
+/* this is for the public view test (ubctestpv) */
+div#header1Wrapper {
+  background-color: yellow !important;
 }
