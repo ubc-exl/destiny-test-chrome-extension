@@ -1,10 +1,13 @@
-# Destiny Chrome Extension
+# Destiny Chrome Extension for UBC
 A Chrome Extension to change the appearance of the DestinyONE Staff View TEST 
 environment. Makes it abundantly obvious that you're in TEST vs PROD. [Turns the 
 banner and footer yellow, and adds a light yellow background to the entire page.]
 
 Also adds yellow banner styles to the STAGING Website, the DEV Website, and the 
 DestinyOne Public View TEST.
+
+Specific to UBC Extended Learning site URLs. Individuals wishing to adapt this
+for their own D1 sites can do so by editing the URLs in manifest.json. 
 
 Adapted from the UC Berkeley extension at https://github.com/UC-Berkeley-Extension/destiny-chrome-extension
 
