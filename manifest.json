@@ -15,7 +15,7 @@
       "matches": ["https://ubctestsv.destinyone.moderncampus.net/*", 
                   "https://staging.extendedlearning.ubc.ca/*", 
                   "https://dev-54ta5gq-2cjgsmsgsejxq.ca-1.platformsh.site/*",
-                  "https://ubctestpv.destinyone.moderncampus.net/"
+                  "https://ubctestpv.destinyone.moderncampus.net/*"
                  ],
       "css": ["contentScripts/main.css"],
       "js": ["contentScripts/app.js"]
