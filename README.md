@@ -24,3 +24,7 @@ Rewritten to be compatible with Manifest V3.
 
 ## Sreenshot
 ![screenshot of extension in D1 staff view test](images/d1-test-screenshot.png)
+
+## Video Tutorial on Customizing for Your Institution
+Quick video on customizing this for an institution that's not UBC can be found at https://youtu.be/Hx5kkC4f_TU  
+ 
